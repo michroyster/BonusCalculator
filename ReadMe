@@ -1,0 +1,10 @@
+Author: Michael Royster
+Email: micaher@okstate.edu
+Description:
+    This program is a simple calculator that performs integer operations.
+    Add, subtract, multiply, and integer divide.
+    This program also supports a squaring function and the ability to
+    flip the sign of the current number.
+    The user cannot enter numbers greater than 8 digits.
+    The chk button prints the values of the memory holding previous
+    numbers and the oprator to the command line.
